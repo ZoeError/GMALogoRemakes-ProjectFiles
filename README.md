@@ -16,6 +16,19 @@ Source .blend project files for various GMA Network logo remakes.
 
 ---
 
+## How to use and work on the project files?
+Requirements:
+
+* Blender version 3.5.1 installed
+
+* A compatible desktop/laptop computer (maybe a good, fast PC is a recommended)
+
+* Computer must run Windows 10 or later for optimal recommended performance
+
+**NOTE:** Support for Windows 10 will end on October 14 this year (at the time of this repository's creation), so it may now be the time to upgrade to Windows 11 by upgrading a compatible PC, or buying a new PC with Windows 11 preinstalled.
+
+---
+
 The original design of the current corporate logo is designed and is the property of GMA Network, Inc. in the Philippines.
 
 ZoeError (ZE) // KapusoCzE, 2025
